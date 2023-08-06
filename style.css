@@ -2,7 +2,7 @@
 .kontejner {
   display: flex;
   justify-content: space-between;
-  margin-top: 700px;
+  margin-top: 500px;
 }
 
 img {
